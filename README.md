@@ -37,7 +37,7 @@
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=indiafoxtrot)](https://github.com/indiafoxtrot/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=indiafoxtrot&show_icons=true&theme=tokyonight)](https://github.com/indiafoxtrot/github-readme-stats)
 
 [website]: https://www.beyondlines.net/
 [twitter]: https://twitter.com/CoopPlays
