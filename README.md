@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Ethical Hacking and Clouding
 - 👯 I’m looking to collaborate with anyone (well as long as it is viable for everyone of course)
 - 🥅 2020 Goals: Survive
-- ⚡ Fun fact: I love to cook, ride my bike, and swim 
+- ⚡ Fun fact: I love doing CTF ⛳
 
 ### Connect with me:
 
