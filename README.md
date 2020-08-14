@@ -52,5 +52,5 @@
 
 [website]: https://www.beyondlines.net/
 [twitter]: https://twitter.com/CoopPlays
-[linkedin]: www.linkedin.com/in/istvan-feher
+[linkedin]:https://linkedin.com/in/istvan-feher
 
