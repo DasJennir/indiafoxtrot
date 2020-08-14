@@ -34,6 +34,11 @@
 
 ### 📕 Latest Blog Posts 📕
 <!-- BLOG-POST-LIST:START -->
+- [How to harden your router to be as secure as possible 🔒](https://www.beyondlines.net/how-to-harden-your-router/)
+- [All Hacking Events That You MUST Attend In August 2020  👨‍💻 👩‍💻](https://www.beyondlines.net/hacking-events-august/)
+- [How to check if a file contains virus 👾](https://www.beyondlines.net/check-virus/)
+- [How to make your Laptop access 5G wi-fi. 💻🌐](https://www.beyondlines.net/laptop-5g/)
+- [How to disable ALL sound effects from Windows 10 🔊](https://www.beyondlines.net/how-to-disable-all-sound-effects-from-windows-10-%f0%9f%94%8a/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
