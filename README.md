@@ -34,11 +34,11 @@
 
 ### 📕 Latest Blog Posts 📕
 <!-- BLOG-POST-LIST:START -->
+- [Protected: LevelUp0x07 CTF Full Walk Through ⛳](https://www.beyondlines.net/levelup0x07-walk-through/)
 - [How to get tons of free resources and courses using your University/College email ✉️🎓](https://www.beyondlines.net/free-course-for-student/)
 - [How to harden your router to be as secure as possible 🔒](https://www.beyondlines.net/how-to-harden-your-router/)
 - [All Hacking Events That You MUST Attend In August 2020  👨‍💻 👩‍💻](https://www.beyondlines.net/hacking-events-august/)
 - [How to check if a file contains virus 👾](https://www.beyondlines.net/check-virus/)
-- [How to make your Laptop access 5G wi-fi. 💻🌐](https://www.beyondlines.net/laptop-5g/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
