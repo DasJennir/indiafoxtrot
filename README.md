@@ -1,11 +1,11 @@
 ### Hi there, I'm Van 👋
 
 ## I am a Cyber Security Student :)
-- 🔭 I’m currently working automation tools!
-- 🌱 I’m currently learning Ethical Hacking and Clouding
-- 👯 I’m looking to collaborate with anyone (well as long as it is viable for everyone of course)
+- 🔭 I'm studying and improving my automation skills using python 
+- 🌱 I’m currently learning Ethical Hacking and Clouding Security
+- 👯 I’m looking to collaborate with anyone :)
 - 🥅 2020 Goals: Survive
-- ⚡ Fun fact: I love doing CTF ⛳
+- ⚡ Fun fact: I love doing CTFs ⛳
 
 ### Connect with me:
 
