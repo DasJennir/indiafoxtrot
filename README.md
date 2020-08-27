@@ -34,11 +34,11 @@
 
 ### 📕 Latest Blog Posts 📕
 <!-- BLOG-POST-LIST:START -->
+- [How to set up Burp Suite to capture traffic from your smartphone emulator.](https://www.beyondlines.net/burp-suite-smartphone/)
 - [LevelUp0x07 CTF Complete Walkthrough ⛳](https://www.beyondlines.net/levelup0x07-walk-through/)
 - [How to get tons of free resources and courses using your University/College email ✉️🎓](https://www.beyondlines.net/free-course-for-student/)
 - [How to harden your router to be as secure as possible 🔒](https://www.beyondlines.net/how-to-harden-your-router/)
 - [All Hacking Events That You MUST Attend In August 2020  👨‍💻 👩‍💻](https://www.beyondlines.net/hacking-events-august/)
-- [How to check if a file contains virus 👾](https://www.beyondlines.net/check-virus/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
