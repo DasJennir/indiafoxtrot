@@ -1,11 +1,11 @@
 ### Hi there, I'm Van 👋
 
 ## I am a Cyber Security Student :)
-- 🔭 I'm studying and improving my automation skills using python 
-- 🌱 I’m currently learning Ethical Hacking and Clouding Security
+- 🔭 I'm looking forward to improve my automation skills using python and bash 
+- 🌱 I’m currently learning Ethical Hacking and Cloud Security
 - 👯 I’m looking to collaborate with anyone :)
 - 🥅 2020 Goals: Survive
-- ⚡ Fun fact: I love doing CTFs ⛳
+- ⚡ Fun fact: I love playing CTFs ⛳
 
 ### Connect with me:
 
@@ -47,10 +47,10 @@
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with other people so if you want to say hi, I'll be happy to talk to you !</b> \:D</em>
 
 
 [website]: https://www.beyondlines.net/
-[twitter]: https://twitter.com/CoopPlays
+[twitter]: https://twitter.com/RexFoxtrot
 [linkedin]:https://linkedin.com/in/istvan-feher
 
