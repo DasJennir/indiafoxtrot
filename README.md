@@ -34,11 +34,11 @@
 
 ### 📕 Latest Blog Posts 📕
 <!-- BLOG-POST-LIST:START -->
+- [My brand new website !!!](https://www.beyondlines.net/my-brand-new-website/)
 - [How and why TCP and UDP connections are established, as fast as possible:](https://www.beyondlines.net/tcp-and-udp/)
 - [Securing Transmissions Using Binary Length Data](https://www.beyondlines.net/binary-length-data/)
 - [Definitive Guide on how to deploy your Hugo website to Netlify 🌐](https://www.beyondlines.net/guide-deploy-hugo-to-netlify/)
 - [How to set up Burp Suite to capture traffic from your smartphone emulator.](https://www.beyondlines.net/burp-suite-smartphone/)
-- [LevelUp0x07 CTF Complete Walkthrough ⛳](https://www.beyondlines.net/levelup0x07-walk-through/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
