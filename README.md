@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts 📕
 <!-- BLOG-POST-LIST:START -->
+- [What was the Northbridge and Southbridge on a motherboard and what is has become today.](https://www.beyondlines.net/what-was-the-northbridge-and-southbridge-on-a-motherboard-and-what-is-has-become-today/)
 - [SSH to unix clients/servers by using a private and public key.](https://www.beyondlines.net/ssh-to-unix-clients-servers-by-using-a-private-and-public-key/)
 - [My brand new website !!!](https://www.beyondlines.net/my-brand-new-website/)
 - [How and why TCP and UDP connections are established, as fast as possible:](https://www.beyondlines.net/tcp-and-udp/)
 - [Securing Transmissions Using Binary Length Data](https://www.beyondlines.net/binary-length-data/)
-- [Definitive Guide on how to deploy your Hugo website to Netlify 🌐](https://www.beyondlines.net/guide-deploy-hugo-to-netlify/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
