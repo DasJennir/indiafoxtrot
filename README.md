@@ -1,10 +1,10 @@
 ### Hi there, I'm Van 👋
 
-## I am a Cyber Security Student :)
+## I am a IT Student :)
 - 🔭 I'm looking forward to improve my automation skills using python and bash 
 - 🌱 I’m currently learning Ethical Hacking and Cloud Security
 - 👯 I’m looking to collaborate with anyone :)
-- 🥅 2020 Goals: Survive
+- 🥅 2021 Goals: Learn more !
 - ⚡ Fun fact: I love playing CTFs ⛳
 
 ### Connect with me:
