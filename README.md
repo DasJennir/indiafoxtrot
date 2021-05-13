@@ -35,11 +35,11 @@
 
 ### 📕 Latest Blog Posts 📕
 <!-- BLOG-POST-LIST:START -->
+- [Remove Unnecessary Files From Your Computer Automatically](https://www.beyondlines.net/remove-unnecessary-files-from-your-computer-automatically/)
 - [No Devices Available VirtualBox Fix on Linux](https://www.beyondlines.net/no-devices-available-virtualbox-linux-fix/)
 - [Best and fastest way to set up VM for Bug Bounty.](https://www.beyondlines.net/set-up-vm-for-bug-bounty/)
 - [Components of a CPU and how they become a core.](https://www.beyondlines.net/components-of-a-cpu-and-how-they-become-a-core/)
 - [What was the Northbridge and Southbridge on a motherboard and what is has become today.](https://www.beyondlines.net/what-was-the-northbridge-and-southbridge-on-a-motherboard-and-what-is-has-become-today/)
-- [SSH to unix clients/servers by using a private and public key.](https://www.beyondlines.net/ssh-to-unix-clients-servers-by-using-a-private-and-public-key/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
